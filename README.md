@@ -11,7 +11,6 @@ Application chatbot using React Native
 ### Screenshots :
 <table align="center">
  <tr>
-  <td><img src="[[https://github.com/reipai/Chatbot/blob/master/screenshoot/ss app.jpg](https://github.com/reipai/Chatbot/blob/master/screenshoot/ss%20app.jpg)" alt="Home Page" style="width:200px;height:400px;"></td>
+  <td><img src="[https://github.com/reipai/Chatbot/blob/master/screenshoot/ss%20app.jpg" alt="Home Page" style="width:200px;height:400px;"></td>
  </tr>
 </table>
-https://github.com/reipai/Chatbot/blob/master/screenshoot/ss%20app.jpg
