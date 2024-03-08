@@ -1,0 +1,13 @@
+export const dialogflowConfig = {
+    "type": "service_account",
+    "project_id": "small-talk-ycvp",
+    "private_key_id": "40a1eab4275895a0b3b0d0dbfeb79f2cd954072b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDI/Dq4+z5miABN\nLVdDmLpxZnAHgTi5SkhV/xvvvhIW/MIm1PoaREH88EQ17m8bziNHiM7HIq75Q4VT\n6Y3kuRzje7NUGvh82u35ZUsuOFQEzeLlezWV09gCcHHoiAzOzxvnf05SU5HNw2AQ\n79eR9hiPZC8eQDiw4uAQDAWTcc6ZGtHNotTmNtrOjfQpf24nHowgKRgaBNU3P84n\nntT8jI0I1EFRCfFvbALRmxbT7J8zWj1hSZi9Zw4dZdb0veCSzcGMx0kZ7pRbUFE2\n3n+8+xnrxx9m9InFqushSsVD/+yjVObJiUs/mJxdq2enBDZybfVHz3UCj7dpCem0\n0NOoqamjAgMBAAECggEAC7yoZJIOKFMBNYCUK9c47Wi5L8RXlCvRgpgga6/dWD36\ny+VnFO6Z2JQNX7A6CSp7ZpuHe8XmPZni/i38QnhJnBfmtol8AQqQmB5WtW8bqkt9\nrb9etzkE+yDRk23n1ZHvBBCr+bnLS3QBNwFSmkGqrdZWEWhYXIK7PqSnv18Hh2ru\nHeFs02As3j9O/HkUwBSbXGuy+hp0MxOJXzlNFBb5uX7FxN24LdXhvxdeUqG08451\nyxQho0yV0I8XWaCO44VttG6W6qjJMza3LKgdo3cmllJaCCzMm/Nj+B4/WjMAsuD+\n3bgztUgtUEtrcFcyg/y9BTzNsJdfxV7eqWfa5tA6oQKBgQD2F5cZnFFmiS6g/3I1\nUa4GcetXunLu6Ef1nR8ttVl5lWMAk4a/+Ci8s2YhSLnsJm5IbF5w80yCgc6l+p3o\nQDVU9nR1fpBZOaVCtk42FS4gPJy1m9yCa5QXSCJRFCj0x4+dtF3iy/QE821oZaQz\ny3SnQ6Xthc8Z4UYBpiriUsGzwwKBgQDRE7viY17JsemG1yXbKl3Ak1vFC+rMfKCR\nmQCTQ1D3TaNyjZYewVbx/oP5MHLGUc1gM5D5EkCNvRYqin3Cmr+scXg6dM2wzXWE\nvTxmFutfl+RYKn2X+WCI5a95RisfdyTEGgluwGsU77eWf8CQmm0UfgaSpIliZ8KR\nBpkUSRw0oQKBgFZqADgRCRBtWX9VU+BfNzGyLQbYROWZkTMxIjKlvK6SA3q/UxDz\n7jIc+N71L7w53n3198/Hz3UAafUkpPBaI6AbDtf3Qm7ibCKZ66rYEyNkxU6MVYlC\nh3UJcmtwHdWegdLJ9DHglmZqqF+BWYCKkALwIULfutKGpVOM6wAgOT6LAoGAbAVK\nGVlF6+djxCr8gBOPhKOd0lyp3yS0wQTP60XoWx1dyR2l5hX2GelpviFt61DwTzfV\nOxpXB+Qdw7Tx7M2PIkUt3OXkL+i3QvGSdxx4V1devr6VTSOm4JPq6Tl7pjIkaL0b\nCoGX0aVYsQUoNI3UtbW3J6Si5pi9Sbii9nwfeoECgYBKq+KG56SBB8wqklb0l49U\nD15G/2bqOfSf6GwozGVt5Opnme5RBx9bNDITg43JCs1ybidm+bh/Bg6n1p3d7eYJ\nf8jVCGz7FWAA9kQQSRir3qmwYRKY81u09fkoTqx4IeKPjo+FJGA7tdG9d69TrBeC\nCG/pGcee1pb6z5TqWVIfvQ==\n-----END PRIVATE KEY-----\n",
+    "client_email": "chabot@small-talk-ycvp.iam.gserviceaccount.com",
+    "client_id": "112031907951255544253",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chabot%40small-talk-ycvp.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
